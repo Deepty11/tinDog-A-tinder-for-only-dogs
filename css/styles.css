@@ -162,7 +162,8 @@ h2 {
     font-weight: bold;
 }
 
-.card:h3 {
+.dogbreed {
+    font-family: "Montserrat-bold";
     font-weight: bolder;
 }
 
